@@ -29,8 +29,5 @@ If you're interested in contributing to any of the projects or have ideas to enh
 
 Please follow the code of conduct and guidelines mentioned in each project repository for contributing.
 
-License
-This project is licensed under the MIT License. Feel free to use the code and modify it according to your needs. Make sure to provide appropriate attribution.
-
 Acknowledgments
 I would like to express my gratitude to all the developers and open-source contributors whose work has inspired and helped me in my coding journey. Thank you for your invaluable contributions.
