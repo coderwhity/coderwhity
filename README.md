@@ -1,4 +1,4 @@
-# 👋 Welcome to CoderWhity's Code Repository!
+# 👋 Welcome to Prasad's Code Repository!
 
 Hey there! I'm Prasad Shinde, and this repository is my coding journey's hub, showcasing projects, achievements, and learning experiences. Feel free to explore the code, contribute, or collaborate with me!
 
