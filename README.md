@@ -24,7 +24,7 @@ I'm always eager to learn and explore new technologies, so this list continues t
 
 Feel free to reach out to me through the following channels:
 
-- Email: prasadcoder111@gmail.com
+- Email: sp1103458@gmail.com
 - Instagram: [@coderwhity](https://www.instagram.com/coderwhity/)
 
 Connect with me for questions, suggestions, or collaboration opportunities.
