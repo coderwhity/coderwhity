@@ -11,20 +11,25 @@ I'm a passionate coder and a lifelong learner, constantly diving into various pr
 Here are some of the programming languages and technologies I'm proficient in:
 
 - Python
+- Dart (Flutter)
+- Mongo DB
+- Firebase
+- Node.js
 - JavaScript
 - HTML/CSS
 - Java
 - C++
 - Git
 - SQL
-
+  
 I'm always eager to learn and explore new technologies, so this list continues to expand.
 
 ## 📫 Contact
 
 Feel free to reach out to me through the following channels:
 
-- Email: sp1103458@gmail.com
+- Email: prasadshinde0019@gmail.com
+- LinkedIn: [@coderwhity](www.linkedin.com/in/prasadShinde19)
 - Instagram: [@coderwhity](https://www.instagram.com/coderwhity/)
 
 Connect with me for questions, suggestions, or collaboration opportunities.
