@@ -29,7 +29,7 @@ I'm always eager to learn and explore new technologies, so this list continues t
 Feel free to reach out to me through the following channels:
 
 - Email: prasadshinde0019@gmail.com
-- LinkedIn: [@prasadShinde19](www.linkedin.com/in/prasadShinde19)
+- LinkedIn: [@prasadShinde19](https://www.linkedin.com/in/prasadShinde19)
 - Instagram: [@coderwhity](https://www.instagram.com/coderwhity/)
 
 Connect with me for questions, suggestions, or collaboration opportunities.
